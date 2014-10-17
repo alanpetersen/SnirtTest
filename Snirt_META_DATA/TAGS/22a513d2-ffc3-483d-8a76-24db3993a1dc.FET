@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Id>22a513d2-ffc3-483d-8a76-24db3993a1dc</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>test.txt.txt</DisplayName>
+    <PathInsideRepo />
+    <RepoRootFolder>C:\Users\alan\Documents\Snirt\SnirtTest</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>Thumbnail</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>cfc81602-2ec6-4533-9810-a7b4e9d3c5e9</guid>
+  </Tags>
+</FolderEntryTags>
