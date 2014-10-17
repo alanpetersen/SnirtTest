@@ -1,0 +1,91 @@
+20140512-153711  main.cpp(  27)  : main() start
+20140512-153712  WindowsUi.cpp( 101)  : desktop folder: C:\Users\alan\Desktop\
+20140512-153712  showDebugMessageDialog:
+20140512-153712    getConfigurationFromExe
+20140512-153712    GatewayURL (stage:3, marketplaceID:1): https://swvgdtt-gateway.amazon.com/gateway/thin
+20140512-153712  HardWareInfo_Windows.cpp( 198)  : G
+20140512-153712  showDebugMessageDialog:
+20140512-153712    GetHardWareId
+20140512-153712    GetDriveSerialNumber exception
+20140512-153712  showDebugMessageDialog:
+20140512-153712    GetHardWareId
+20140512-153712    GetDriveSerialNumberWithIOCTL exception
+20140512-153712  ApplicationLib.cpp(  95)  : Application::run() start
+20140512-153712    STATE_CONNECTING
+20140512-153712    WindowsUi.cpp( 691)  : setDownloadStatusText: Finding download...
+20140512-153712    WindowsINetClient.cpp(  80)  : post to https://swvgdtt-gateway.amazon.com/gateway/thin
+20140512-153712      WindowsINetClient.cpp( 129)  : hostName: swvgdtt-gateway.amazon.com
+20140512-153712      WindowsINetClient.cpp( 130)  : urlPath: /gateway/thin
+20140512-153713    JsonMessenger.cpp(  72)  : registerInstall()
+20140512-153713      JsonMessenger.cpp(  74)  : version: 4.0.0.0
+20140512-153713      JsonMessenger.cpp(  75)  : productCode: Ignored Product Asin
+20140512-153713      JsonMessenger.cpp(  76)  : clientType: THIN_WIN32
+20140512-153713    WindowsINetClient.cpp(  80)  : post to https://swvgdtt-gateway.amazon.com/gateway/thin
+20140512-153713      WindowsINetClient.cpp( 129)  : hostName: swvgdtt-gateway.amazon.com
+20140512-153713      WindowsINetClient.cpp( 130)  : urlPath: /gateway/thin
+20140512-153713    JsonMessenger.cpp( 105)  : createDownload()
+20140512-153713      JsonMessenger.cpp( 107)  : machine: b8a8-626b
+20140512-153713    WindowsUi.cpp( 691)  : setDownloadStatusText: Retrieving information...
+20140512-153713    WindowsINetClient.cpp(  80)  : post to https://swvgdtt-gateway.amazon.com/gateway/thin
+20140512-153713      WindowsINetClient.cpp( 129)  : hostName: swvgdtt-gateway.amazon.com
+20140512-153713      WindowsINetClient.cpp( 130)  : urlPath: /gateway/thin
+20140512-153714    JsonMessenger.cpp( 160)  : getManifest(1)
+20140512-153714      JsonMessenger.cpp( 162)  : imageUrl: http://ecx.images-amazon.com/images/I/41hq3QN4zJL._SL75_.jpg
+20140512-153714      JsonMessenger.cpp( 163)  : productName: Quicken Rental Property Manager 2014 (Download)
+20140512-153714      JsonMessenger.cpp( 164)  : brandName: Intuit
+20140512-153714      JsonMessenger.cpp( 165)  : versionedItemId: d48bce26-fbac-4098-87cb-8327810385a5
+20140512-153714      JsonMessenger.cpp( 166)  : asin: B00E7X9UKC
+20140512-153714      JsonMessenger.cpp( 167)  : fileName: QW14RPM.exe
+20140512-153714      JsonMessenger.cpp( 168)  : fileSize: 111862512
+20140512-153714      JsonMessenger.cpp( 169)  : numberOfPartitions: 1
+20140512-153714      JsonMessenger.cpp( 170)  : archiveMethod: 0
+20140512-153714      JsonMessenger.cpp( 171)  : launchFile: 
+20140512-153714      JsonMessenger.cpp( 172)  : productKeyFile: 
+20140512-153714      JsonMessenger.cpp( 173)  : requiresProductKey: 0
+20140512-153714      JsonMessenger.cpp( 174)  : requiresExtractKey: 0
+20140512-153714      JsonMessenger.cpp( 175)  : glCode: 366
+20140512-153714      JsonMessenger.cpp( 176)  : dsp: S3
+20140512-153714    WindowsUi.cpp( 444)  : Navigating to www.amazon.com/gp/swvgdtt/downloaderBanner/genericBanner.html?asin=B00E7X9UKC
+20140512-153715    WindowsUi.cpp( 488)  : Successfully loaded the webpage
+20140512-153715    WindowsUi.cpp( 492)  : did not find the tag DontDisplay5141 in the HTML - Displaying banner
+20140512-153715    WindowsUi.cpp( 561)  : setDownloadFolderText: C:\Users\alan\Desktop\
+20140512-153715    ApplicationLib.cpp( 223)  : productKeyFile: Quicken Rental Property Manager 2014 (Download) Keys.html
+20140512-153715    ApplicationLib.cpp( 239)  : Log file name: 20140512-153711_7a4cdd82-b41e-42cc-ae4e-58d3dd1c9817
+20140512-153715    WindowsINetClient.cpp(  80)  : post to https://swvgdtt-gateway.amazon.com/gateway/thin
+20140512-153715      WindowsINetClient.cpp( 129)  : hostName: swvgdtt-gateway.amazon.com
+20140512-153715      WindowsINetClient.cpp( 130)  : urlPath: /gateway/thin
+20140512-153715    ApplicationLib.cpp( 240)  : Server response: true
+20140512-153715    WindowsUi.cpp( 691)  : setDownloadStatusText: Opening file...
+20140512-153715    StdDownloader.cpp( 315)  : StdDownloader::open(QW14RPM.exe, 111862512)
+20140512-153715    WindowsUi.cpp( 691)  : setDownloadStatusText: Starting download...
+20140512-153715    STATE_PRERESUMING
+20140512-153715    ApplicationLib.cpp( 269)  : Partition  0 Retry  0
+20140512-153715    WindowsINetClient.cpp(  80)  : post to https://swvgdtt-gateway.amazon.com/gateway/thin
+20140512-153715      WindowsINetClient.cpp( 129)  : hostName: swvgdtt-gateway.amazon.com
+20140512-153715      WindowsINetClient.cpp( 130)  : urlPath: /gateway/thin
+20140512-153715    JsonMessenger.cpp( 218)  : getPartition()
+20140512-153715      JsonMessenger.cpp( 220)  : partitionIndex: 0
+20140512-153715      JsonMessenger.cpp( 221)  : checksum: 
+20140512-153715      JsonMessenger.cpp( 222)  : downloadUrl: s3.amazonaws.com
+20140512-153715    ApplicationLib.cpp( 283)  : Get 111862512 bytes from s3.amazonaws.com
+20140512-153715    StdDownloader.cpp(  57)  : fileOffset: 0, partitionSize: 111862512, startPos: 0)
+20140512-153715      StdDownloader.cpp(  82)  : origStartPos: 0 / startPos: 0 / numRetries: 0 /  bytesDownloaded: 0 / downloadedThisAttempt: 0
+20140512-153716        StdDownloader.cpp( 182)  : nR: 0 dTA: 0
+20140512-153716          STATE_RESUMING
+20140512-153716          STATE_DOWNLOADING
+20140512-153744          JsonMessenger.cpp( 372)  : JsonMessenger::log(info, )
+20140512-153744          WindowsINetClient.cpp(  80)  : post to https://swvgdtt-gateway.amazon.com/gateway/thin
+20140512-153744            WindowsINetClient.cpp( 129)  : hostName: swvgdtt-gateway.amazon.com
+20140512-153744            WindowsINetClient.cpp( 130)  : urlPath: /gateway/thin
+20140512-153744          StdDownloader.cpp( 285)  : actualNumberOfBytesRead == 0 -- probably end of partition
+20140512-153744    StdDownloader.cpp( 343)  : StdDownloader::close
+20140512-153745    WindowsUi.cpp( 691)  : setDownloadStatusText: Finishing download...
+20140512-153745    WindowsINetClient.cpp(  80)  : post to https://swvgdtt-gateway.amazon.com/gateway/thin
+20140512-153745      WindowsINetClient.cpp( 129)  : hostName: swvgdtt-gateway.amazon.com
+20140512-153745      WindowsINetClient.cpp( 130)  : urlPath: /gateway/thin
+20140512-153745    JsonMessenger.cpp( 279)  : finishDownload()
+20140512-153745    WindowsUi.cpp( 691)  : setDownloadStatusText: Ready to install!
+20140512-153745    STATE_DONE
+20140512-153806    WindowsUi.cpp( 957)  : IDC_INSTALL/IDC_INSTALL2 command
+20140512-153859  DSVClientLog.cpp(  85)  : DSVClientLog::close()
+20140512-153859  DSVClientLog.cpp(  87)  : closing file before upload
